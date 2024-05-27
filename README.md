@@ -1,5 +1,6 @@
 **FINAL ASSIGNMENT COURSE 2 MODULE 6
 **
+
 There are a total of 25 points possible for this final project.
 
 Your grade will be based on the following Exercises:
